@@ -48,9 +48,11 @@ It demonstrates core programming concepts such as file handling, functions, and 
 
 ---
 
-## 📸 Output Screenshot (Optional)
-
-*(Add your screenshot here if available)*
+## 📸 Output Screenshot 
+<img width="1725" height="925" alt="image" src="https://github.com/user-attachments/assets/d7fc352b-5747-4848-8f6e-b831894a7a43" />
+<img width="982" height="748" alt="image" src="https://github.com/user-attachments/assets/a9cd0e80-03e6-4a3f-aeea-06e4ec9f6eb3" />
+<img width="672" height="272" alt="image" src="https://github.com/user-attachments/assets/50949655-7dfd-4882-9ce4-b49abdf92e65" />
+<img width="681" height="234" alt="image" src="https://github.com/user-attachments/assets/21dbbff5-ed15-4c73-80ca-8b7c49442381" />
 
 ---
 
